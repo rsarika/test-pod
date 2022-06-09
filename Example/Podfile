@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RaviTest_Tests' do
+  pod 'RaviTest', :path => '../'
+  
+  
+end
